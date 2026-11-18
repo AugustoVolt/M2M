@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
-
+// essse comentario foi adicionado da maquina virtual EC2 aws 
 const char* servidorURL = "http://192.168.4.1/ping";
 
 // Calibre estes dois valores medindo o RSSI com os ESPs a 1 m
